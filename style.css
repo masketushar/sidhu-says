@@ -1,0 +1,39 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body,html{
+  width: 100%;
+  height: 100%;
+}
+
+ .main-cont{
+  width: 100%;
+  height: 100%;
+  background-color: red;
+
+
+ }
+ .nav-bar{
+
+  display: flex;
+
+ }
+ .ul-items{
+  display: flex;
+  background-color: black; 
+  justify-content: space-between;
+
+ }
+.li-items{
+ margin-right: 20px;
+ list-style:none ;
+ color: white;
+}
+
+ .nav-anchor{
+  
+
+  
+ }
